@@ -1,4 +1,4 @@
-//For command lin git tutorial
+//For command line git tutorial
 //Github  moification
 
 print ("hello world")
